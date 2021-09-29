@@ -9,17 +9,7 @@
 - 💞️ I am looking to collaborate on React Projects
 - ✍️ &nbsp;In my free time, I like learn more about Artificial Intelligence, Data Science and Movil Development.\
 
-
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a Software developer with System Engineer Degree from Ecuador.\
-🌱 &nbsp;I have some experience in Machine Learning, Data Science, Front/Back development.\
-✍️ &nbsp;In my free time, I like learn more about Artificial Intelligence, Systems Design, Data Science and Movil Development.\
-✉️ &nbsp;You can shoot me an email at jonnathan.campoberde@gmail.com I'll try to respond as soon as I can.
-
-<img alt="Night Coding" src="./coding.gif" align="right" width="30%" height="30%"/>
+<img alt="Night Coding" src="./programmer.gif" align="right" width="30%" height="30%"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -31,8 +21,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![React](https://img.shields.io/twitter/url?color=green&label=React&logo=react&logoColor=%2308f&style=social&url=%2Freact%2Ficono)&nbsp;\
-![React Native](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;\
+![React](https://img.shields.io/twitter/url?color=blue&label=react&logo=react&logoColor=blue&style=social&url=https%3A%2F%2Fshields.io)&nbsp;\
+![React Native](https://img.shields.io/twitter/url?color=blue&label=react&logo=react&logoColor=blue&style=social&url=https%3A%2F%2Fshields.io)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
