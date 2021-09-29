@@ -1,9 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Patrick </h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a Software developer with System Engineer Degree from Ecuador.\
-🌱 &nbsp;I have some experience in Machine Learning, Data Science, Front/Back development.\
+
+- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+- 🎓 &nbsp;I'm a Software developer with System Engineer Degree from Ecuador.\
+- 🌱 &nbsp;I have some experience in Machine Learning, Data Science, Front/Back development.\
 - 👀 I am interested in a project in React
 - 🌱 I am currently learning flutter, Node
 - 💞️ I am looking to collaborate on React Projects
@@ -30,5 +31,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 ### 🤝 Connect with Me
-- <img alt="Linkedin" src="https://img.shields.io/badge/--0077B5?style=flat&logo=Linkedin&logoColor=white"/> Linkedin: [@apatrick](https://www.linkedin.com/in/patricio-fajardo96/)
+
+- <img alt="Linkedin" src="./icon/linkedin-brands.svg"/> Linkedin: [@apatrick](https://www.linkedin.com/in/patricio-fajardo96/)
 - 📫 You can contact me at my email apatricio.fajardoc@gmail.com
