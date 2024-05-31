@@ -16,13 +16,13 @@
 
 <p align="left">💡  I love diving into new technologies and crafting innovative software solutions and quick hacks.<br>🎓  I'm a dedicated Software Developer from Universidad de Cuenca.<br>🌱  My expertise spans Machine Learning, Data Science, and full-stack development.<br>👀  I'm particularly interested in projects utilizing React.<br>🚀  Currently, I'm expanding my skill set by learning Flutter and Node.js.<br>💞️  I'm eager to collaborate on exciting React projects.<br>✍️  In my spare time, I delve into Artificial Intelligence, Data Science, and Mobile Development to keep pushing the boundaries of what's possible.</p>
 
-<img alt="Night Coding" src="./programmer.gif" align="right" width="25%" height="40%"/>
 
 ###
 
 <h2 align="left">I code with</h2>
 
 ###
+<img alt="Night Coding" src="./programmer.gif" align="right" width="25%" height="40%"/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
